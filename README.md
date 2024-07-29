@@ -11,3 +11,5 @@ deployed- https://superapp-lyart-three.vercel.app/register
 
 3. movie page
 ![Movie Page](./src/assets/Page5.png)
+
+![Screenshot](./src/assets/Page4.png)
